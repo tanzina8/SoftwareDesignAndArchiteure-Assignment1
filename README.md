@@ -1,7 +1,7 @@
 UML Diagram:
 <img width="1492" height="988" alt="image" src="https://github.com/user-attachments/assets/cc28623f-3b71-4734-a9a6-9db981b596bb" />
 
-Strucutre of Repository:
+Structure of Repository:
 There are two folders in the DesignPatternsAssignment; src and test file
 
 In the src folder are all the source code files.
